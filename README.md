@@ -5,6 +5,8 @@ This TSDNS server handle and asnwear connection request from TSDNS clients.
 ## Build
 GIT: `git clone https://github.com/Freaxbot/TSDNS-Server`
 
+Install libs: `go get gopkg.in/ini.v1`
+
 Build: `go build main.go server.go`
 
 Output: main.exe (on WIN)
