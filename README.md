@@ -1,9 +1,11 @@
 # TSDNS-Server
-This TSDNS server handle and asnwear connection request from TSDNS clients. 
+[Archived] This TSDNS server handle and asnwear connection request from TSDNS clients.
 
 ---
 ## Build
 GIT: `git clone https://github.com/Freaxbot/TSDNS-Server`
+
+Install libs: `go get gopkg.in/ini.v1`
 
 Build: `go build main.go server.go`
 
@@ -23,7 +25,7 @@ voice.teamspeak.com = NORESPONSE
 *.teamspeak-systems.de = 1.2.3.4:15000
 ```
 
-You can set a new rout with the domain and the ip:port. 
+You can set a new rout with the domain and the ip:port.
 
 |Lisening domain        | ip+port (or NORESPONSE )|
 |-----------------------|-------------------------|
