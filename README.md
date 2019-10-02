@@ -1,5 +1,5 @@
 # TSDNS-Server
-This TSDNS server handle and asnwear connection request from TSDNS clients. 
+[Archived] This TSDNS server handle and asnwear connection request from TSDNS clients.
 
 ---
 ## Build
@@ -25,7 +25,7 @@ voice.teamspeak.com = NORESPONSE
 *.teamspeak-systems.de = 1.2.3.4:15000
 ```
 
-You can set a new rout with the domain and the ip:port. 
+You can set a new rout with the domain and the ip:port.
 
 |Lisening domain        | ip+port (or NORESPONSE )|
 |-----------------------|-------------------------|
